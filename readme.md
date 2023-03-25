@@ -26,7 +26,7 @@ To install the custom files, follow these steps:
 
     Clone the repository to your local machine using the command git clone <repository-url>.
     Open the Accessibility Keyboard Panel Editor.
-    Import the included .keylayout files into the editor.
+    Import the included .ascconfig files into the editor.
     Set up Keyboard Maestro and import the included scripts.
 
 ## Usage
